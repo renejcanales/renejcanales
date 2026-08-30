@@ -8,19 +8,13 @@ Methodologically, I work primarily with quantitative approaches.
 
 ## Current Positions
 
-- 🔬 **Research Assistant** — [Fondecyt No. 1250518: "Market Justice and Deservingness of Social Welfare"](https://jus-mer.github.io/web-proyecto/docs/)
-- 🌍 **Research Assistant** — [Norwegian Students' and Academics' International Assistance Fund (SAIH)](https://www.saih.no/en/who-we-are)
+- 🎓 **PhD Fellow**, [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/), University of Bremen.
 
 ## Previous Positions
 
 - 📊 **Research Assistant** — [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/), COES
 - 🔭 **Research Assistant** — [Laboratory of Social Open Science (LISA)](http://lisacoes.cl/), COES
-
----
-
-## Upcoming
-
-🎓 Starting **September 2026**, I will be a **PhD Fellow** at the [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/), within the [CoPoDi Research Program](https://www.bigsss-bremen.de/academic-program/daad-graduate-school-scholarship-program/copodi-research-and-faculty), supported by the [DAAD Graduate School Scholarship Programme (GSSP)](https://www.daad.de/en/information-services-for-higher-education-institutions/further-information-on-daad-programmes/gssp/).
+- 🔬 **Research Assistant** — [Fondecyt No. 1250518: "Market Justice and Deservingness of Social Welfare"](https://jus-mer.github.io/web-proyecto/docs/)
 
 ---
 
