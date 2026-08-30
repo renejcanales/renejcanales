@@ -8,7 +8,7 @@ Methodologically, I work primarily with quantitative approaches.
 
 ## Current Positions
 
-- 🎓 **PhD Fellow**, [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/), University of Bremen.
+- 🎓 **PhD Fellow**, [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/), University of Bremen
 
 ## Previous Positions
 
