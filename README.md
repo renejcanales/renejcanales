@@ -31,4 +31,4 @@ In both individual and collaborative research, I value **reproducible and open s
 
 ## About Me
 
-I was born and raised in [Santiago de Chile](https://youtu.be/E4bxx1nRjCg?si=8q8ZuL2jKgHspUvp). Outside academia, I enjoy reading, powerlifting, and listening to music — whether at home or at concerts and festivals.
+I was born and raised in [Santiago de Chile](https://youtu.be/E4bxx1nRjCg?si=8q8ZuL2jKgHspUvp).
