@@ -8,13 +8,13 @@ Methodologically, I work primarily with quantitative approaches.
 
 ## Current Positions
 
-- 🎓 **PhD Fellow**, [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/), University of Bremen
+- **PhD Fellow**, [Bremen International Graduate School of Social Sciences (BIGSSS)](https://www.bigsss-bremen.de/), University of Bremen
 
 ## Previous Positions
 
-- 📊 **Research Assistant** — [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/), COES
-- 🔭 **Research Assistant** — [Laboratory of Social Open Science (LISA)](http://lisacoes.cl/), COES
-- 🔬 **Research Assistant** — [Fondecyt No. 1250518: "Market Justice and Deservingness of Social Welfare"](https://jus-mer.github.io/web-proyecto/docs/)
+- **Research Assistant** — [Social Cohesion Observatory (OCS-COES)](https://ocs-coes.com/), COES
+- **Research Assistant** — [Laboratory of Social Open Science (LISA)](http://lisacoes.cl/), COES
+- **Research Assistant** — [Fondecyt No. 1250518: "Market Justice and Deservingness of Social Welfare"](https://jus-mer.github.io/web-proyecto/docs/)
 
 ---
 
